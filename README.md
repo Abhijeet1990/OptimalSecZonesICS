@@ -1,1 +1,2 @@
 # OptimalSecZonesICS
+This repository propose a multi-objective optimization problem for firewall modeling for threat0resilient micro-segmentation in power system networks and solve the problem using Non-dominated Sorting Genetic Algorithm - 2 (NSGA-2).
